@@ -1,0 +1,8 @@
+prefix=/home/utkarsh/catkin_ws/install
+
+Name: tf2_msgs
+Description: Description of tf2_msgs
+Version: 0.6.4
+Cflags: -I/home/utkarsh/catkin_ws/install/include
+Libs: -L/home/utkarsh/catkin_ws/install/lib 
+Requires: message_generation geometry_msgs actionlib_msgs

@@ -1,0 +1,8 @@
+prefix=/home/utkarsh/catkin_ws/devel
+
+Name: brics_actuator
+Description: Description of brics_actuator
+Version: 0.7.0
+Cflags: -I/home/utkarsh/catkin_ws/devel/include
+Libs: -L/home/utkarsh/catkin_ws/devel/lib 
+Requires: 

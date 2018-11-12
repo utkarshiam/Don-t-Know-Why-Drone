@@ -1,0 +1,8 @@
+prefix=/home/utkarsh/catkin_ws/install
+
+Name: pid_tune
+Description: Description of pid_tune
+Version: 0.0.0
+Cflags: -I/home/utkarsh/catkin_ws/install/include
+Libs: -L/home/utkarsh/catkin_ws/install/lib 
+Requires: 
